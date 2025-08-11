@@ -62,7 +62,11 @@ This tool integrates multi-source geospatial datasets to deliver:
 | Soil Constraints     | ISDASOIL Africa      | 250m       | Fertility capability classification |
 | Terrain              | Copernicus DEM       | 30m        | Digital elevation model              |
 | Surface Water        | JRC Global Surface Water | 30m    | Water occurrence                     |
-| Infrastructure       | GRIP4 Africa         | Vector     | Road network                         |
+| Slope                | DEM                  | 30m        |                       |
+| Agro-ecology         | DEM and Rainfall     | 90m        |                         |
+| Livlihood zones 2018 | Ethiopia - Livelihood Zones (January 2018) - ReliefWeb         | Vector     |                         |
+| HydroATLAS Basins    | WWF                  | Level 10   | Hydrological basins                  |
+
 
 ### 📐 Criteria and Recommendations  
 The tool applies rule-based classification to suggest interventions:
